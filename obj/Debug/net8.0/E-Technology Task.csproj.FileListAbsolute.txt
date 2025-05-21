@@ -1,0 +1,42 @@
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\appsettings.json
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\E-Technology Task.exe
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\E-Technology Task.deps.json
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\E-Technology Task.runtimeconfig.json
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\E-Technology Task.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\E-Technology Task.pdb
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.csproj.AssemblyReference.cache
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.AssemblyInfoInputs.cache
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.AssemblyInfo.cs
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.csproj.CoreCompileInputs.cache
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.sourcelink.json
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\staticwebassets\msbuild.E-Technology Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Technology Task.props
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Technology Task.props
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Technology Task.props
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\scopedcss\bundle\E-Technology Task.styles.css
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Techno.667DC07D.Up2Date
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\refint\E-Technology Task.dll
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.pdb
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\E-Technology Task.genruntimeconfig.cache
+C:\Users\CONNECT\source\repos\E-Technology Task\E-Technology Task\obj\Debug\net8.0\ref\E-Technology Task.dll
