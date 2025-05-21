@@ -22,7 +22,7 @@ A .NET Core API service for IP geolocation lookup and country-based access contr
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/E_Technology_Task.git
+   git clone [https://github.com/yourusername/E_Technology_Task.git](https://github.com/EmanElsayed2002/Dotnet-Developer-Test-Assignment-.git)
    cd E_Technology_Task
    ```
 2. Configure the application
